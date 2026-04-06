@@ -161,7 +161,7 @@ http://localhost:3000
 
 ## Author
 
-Made by **Prahalad**
+Made by Shreeyansh Patel
 
 ---
 
